@@ -1,4 +1,11 @@
-# Facebook Messenger Bot
-This is a simple python template that uses Flask to build a webhook for Facebook's Messenger Bot API.
+Girlfriend-bot
+------------------
+## Goals/Thoughts
+1. Message my boyfriend at variable times every morning, unless i send a command disabling the message for the day
+2. Uses a variety of random cute stickers (ones that I would use) and silly messages to keep him guessing
+3. See how long it takes him to figure out
+4. _Optional: Send him an interesting fact/cute imgur image/interesting link at various times of the day._
 
-Read more in my [tutorial that uses this repository](https://blog.hartleybrody.com/fb-messenger-bot/)
+
+### Forked from Hartley's repository [fb-messenger-bot](https://blog.hartleybrody.com/fb-messenger-bot/)
+
