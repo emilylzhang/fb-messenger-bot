@@ -7,6 +7,3 @@ girlfriend-bot
 3. See how long it takes him to figure out
 4. _Optional: Send him an interesting fact/cute imgur image/interesting link at various times of the day._
 
-
-###### _Forked from Hartley's repository [fb-messenger-bot](https://blog.hartleybrody.com/fb-messenger-bot/)_
-
